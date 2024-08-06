@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">- 🔭 I am a Python developer and a student doing Bachelors in Computer Science<br>- 📚 I'm currently learning Data Science</p>
+<p align="left">- 🔭 I am a Python developer.<br>- 📚 I'm currently learning Data Science</p>
 
 ###
 
