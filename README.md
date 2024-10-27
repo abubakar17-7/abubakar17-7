@@ -22,6 +22,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abubakar17-7.abubakar17-7&" alt="visitor badge"/>
 </div>
