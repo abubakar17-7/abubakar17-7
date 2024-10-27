@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Coding Animation"/>
-</div>
-
----
-
-<div align="center">
   <a href="mailto:abubakarj1024@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"/>
   </a>
@@ -54,25 +48,6 @@ With a strong foundation in both desktop and web development, I am committed to 
 - **Web Development** (HTML, CSS, JavaScript, Django)
 - **Agile Development & Cross-functional Collaboration**
 - **Problem Solving & Performance Optimization**
-
----
-
-<h2 align="left">💻 Technology Stack</h2>
-
-<h4 align="left">Languages:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo"/>
-</div>
-
-<h4 align="left">Databases:</h4>
-<div align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo"/>
-</div>
 
 ---
 
