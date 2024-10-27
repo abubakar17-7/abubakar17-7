@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
----
-
-<div align="center">
   <a href="mailto:abubakarj1024@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"/>
   </a>
@@ -22,17 +16,17 @@
   </a>
 </div>
 
----
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abubakar17-7.abubakar17-7&" alt="visitor badge"/>
 </div>
 
----
+###
 
 <h1 align="center">Hi there 👋 I'm Muhammad Abu Bakar</h1>
 
----
+###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
@@ -42,7 +36,7 @@ I am a dedicated Python Developer with deep expertise in scripting and web scrap
 With a strong foundation in both desktop and web development, I am committed to producing high-quality, custom-built software that addresses complex challenges. From developing intelligent web scraping systems to automating intricate workflows, I am focused on crafting clean, maintainable, and secure code that consistently exceeds expectations.
 </p>
 
----
+###
 
 <h2 align="left">🛠 Core Competencies</h2>
 
