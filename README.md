@@ -50,7 +50,6 @@ With a strong foundation in both desktop and web development, I am committed to 
 - **Web Development** (HTML, CSS, JavaScript, Django)
 - **Agile Development & Cross-functional Collaboration**
 - **Problem Solving & Performance Optimization**
-
 ---
 
 <h3 align="left">🔥 My Stats</h3>
