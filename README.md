@@ -55,15 +55,6 @@ My approach eliminates manual bottlenecks by combining **Distributed Intelligenc
 
 ---
 
-### 📈 My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar17-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=abubakar17-7&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats"/>
-</div>
-
----
-
 ### 🤝 The Professional Standard
 
 * **Mission-Critical Reliability:** I design for 100% uptime with fail-safes and advanced IP rotation.
